@@ -18,10 +18,9 @@ Codingan Yg Berfungsi Untuk Membuat Qr Code
 Follow Saya Di Instagram ❤️[Faris_Rasyid❤️](https://www.instagram.com/_farisrasyid_/)
 
 
-## Demo
+## Lihat Demo
 
-Insert gif or link to demo
-
+👉[LIHAT DEMO👈](http://qrcode.farisrasyid.my.id)
 
 ## License
 
