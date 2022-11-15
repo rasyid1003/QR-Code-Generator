@@ -8,9 +8,9 @@
 I'm a full stack developer...
 
 
-# GOLANG FOR BEGINER
+# Qr Code Generator
 
-Kumpulan Codingan GOLANG
+Codingan Yg Berfungsi Untuk Membuat Qr Code
 
 
 ## Feedback
